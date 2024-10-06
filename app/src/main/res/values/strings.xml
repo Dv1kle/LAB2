@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LAB2</string>
+    <string name="enter_text">Type your text here</string>
+    <string name="count">Calculate</string>
+    <string name="count_words">Word Count</string>
+    <string name="count_chars">Character Count</string>
+    <string name="result_label">Total: </string>
+    <string name="empty_input_warning">Please provide some input!</string>
+</resources>
